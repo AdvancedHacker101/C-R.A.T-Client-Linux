@@ -1,4 +1,4 @@
-# C-R.A.T-Client-Linux
+# C R.A.T Client Linux
 This is a client integrating some of the functions of [C# R.A.T Client](https://github.com/AdvancedHacker101/C-Sharp-R.A.T-Client/)  
 This client is written in c and uses the standard linux libraries, and some commands, like: pidof, eject, bash, gsettings, kill  
 Version: 1.0 - beta  
