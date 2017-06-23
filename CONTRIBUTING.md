@@ -1,5 +1,5 @@
 # Contribution
-**Thank you for considering contribution to the UAC Bypass Project!**  
+**Thank you for considering contribution to the C R.A.T Client Project!**  
 ## How to contribute?
 It's very simple!  
 1. Fork the project  
