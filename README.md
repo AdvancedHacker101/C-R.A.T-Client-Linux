@@ -17,5 +17,10 @@ Functions planned to be added:
 
 **Warning**: traffic sent and/or received by the linuxClient is **Not encrypted**  
 Note that this is very experimental and may not work as intended!  
+## More Information
+You can view the project licence [here](https://github.com/AdvancedHacker101/C-R.A.T-Client-Linux/blob/master/LICENSE)  
+You can read the code of conduct [here](https://github.com/AdvancedHacker101/C-R.A.T-Client-Linux/blob/master/CODE_OF_CONDUCT.md)  
+You can read how to contribute [here](https://github.com/AdvancedHacker101/C-R.A.T-Client-Linux/blob/master/CONTRIBUTING.md)  
+
 *Happy Coding!*  
 **\-Advanced Hacking 101**
